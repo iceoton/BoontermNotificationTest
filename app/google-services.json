@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "101142746914",
+    "project_id": "boonterm-1351"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101142746914:android:721cf3358566f13d",
+        "android_client_info": {
+          "package_name": "com.mvision.boontermnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaaKWmSvlZG-IaICwV8FadzE4OfSMF4vk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
